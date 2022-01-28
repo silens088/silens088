@@ -4,8 +4,7 @@
 Я Vitalii Velichko - Software QA Engineer, QA automation
 Работал как software QA engineer 2 years, практикуюсь как QA in automation
 
-___
-
+---
 ### Familiarize with my projects in github:
 
 <p align="center">
@@ -13,7 +12,6 @@ ___
 </p>
 
 ___
-
 ### My card in GitHub
 
 [![Vitalii GitHub stats](https://github-readme-stats.vercel.app/api?username=silens088)](https://github.com/silens088/github-readme-stats)
