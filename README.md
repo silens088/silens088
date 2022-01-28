@@ -5,9 +5,19 @@ Welcome to my GitHub page!
 Работал как software QA engineer 2 years, практикуюсь как QA in automation
 
 
+---
+add steck technology:
+1. junit5
 
 Familiarize with my projects in github:
 ---
+look here!!
+1. added link for UI
+2. added link for API
+3. added link for mobile
+
+
+
 
 <p align="center">
   <img src="images/Github_projects.PNG">
