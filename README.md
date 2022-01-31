@@ -1,19 +1,17 @@
 ### Welcome to my GitHub page!
 
----
-
-Описание (ред)
 Я Vitalii Velichko - Software QA Engineer, QA automation
 Работал как software QA engineer 2 years, практикуюсь как QA in automation
 
 ---
-### Familiarize with my projects in github:
-<p align="center">
-  <img src="images/Github_projects.PNG">
-</p>
 
-## Technology used:
-## Используемые технологии и инструменты
+### Familiarize with my projects in github:
+
+111
+
+---
+
+### Technology used:
 ![Intelij_IDEA](images/icons/Intelij_IDEA.png)
 ![Java](images/icons/Java.png)
 ![Selenide](images/icons/Selenide.png)
@@ -29,18 +27,10 @@
 ![Jira](images/icons/Jira.png)
 ![Lombok](images/icons/Lombok.png)
 
-___
-
-### My card in GitHub
-   
- <!--
- [![Vitalii GitHub stats](https://github-readme-stats.vercel.app/api?username=silens088)](https://github.com/silens088/github-readme-stats)
- or
-_-->__
- ![Vitalii GitHub stats](https://github-readme-stats.vercel.app/api?username=silens088&show_icons=true&theme=radical)
+### My card in GitHub  
+![Vitalii GitHub stats](https://github-readme-stats.vercel.app/api?username=silens088&show_icons=true&theme=radical)
 
 ### Contacts
-
 [![Linkedin](images/LinkedIn_logo.png)](https://linkedin.com/in/vvvelichko) [![Telegram](images/Telegram1.png)](https://t.me/Vitalii088) [![Email](images/Gmail_Icon.png)](mailto:silens088@gmail.com) 
 
 <!--
