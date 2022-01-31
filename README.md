@@ -25,9 +25,11 @@ look here!!
 
 My card in GitHub
 
+<!--
 [![Vitalii GitHub stats](https://github-readme-stats.vercel.app/api?username=silens088)](https://github.com/silens088/github-readme-stats)
 or
-[![Vitalii GitHub stats](https://github-readme-stats.vercel.app/api?username=OksanaIzi&show_icons=true&theme=radical)
+-->
+![Vitalii GitHub stats](https://github-readme-stats.vercel.app/api?username=silens088&show_icons=true&theme=radical)
 
 
 Contacts
