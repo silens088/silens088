@@ -43,9 +43,6 @@ _-->__
 
 [![Linkedin](images/LinkedIn_logo.png)](https://linkedin.com/in/vvvelichko) [![Telegram](images/Telegram1.png)](https://t.me/Vitalii088) [![Email](images/Gmail_Icon.png)](mailto:silens088@gmail.com) 
 
- 
-
-
 <!--
 **silens088/silens088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
