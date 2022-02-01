@@ -1,13 +1,10 @@
 ### Welcome to my GitHub page!
-
-Я Vitalii Velichko - Software QA Engineer, QA automation
-Работал как software QA engineer 2 years, практикуюсь как QA in automation
-
+Software QA Engineer more 2 years, practicing QA automation
 ---
 
-### Familiarize with my projects in github:
-
-111
+### Check out my projects:
++ UI - [Kupithai_UI_Automation](https://github.com/silens088/Kupithai_UI_Automation)
++ API - [Reqres_Api_Automation](https://github.com/silens088/Reqres_Api_Automation)
 
 ---
 
