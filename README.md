@@ -3,8 +3,10 @@ Software QA Engineer more 2 years, practicing QA automation
 ---
 
 ### Check out my projects:
-+ UI -[Polka_UI_Junit_parameterized](https://github.com/silens088/Polka_UI_Junit_parameterized), [Kupithai_UI_Automation](https://github.com/silens088/Kupithai_UI_Automation)
-+ API - [Reqres_Api_Automation](https://github.com/silens088/Reqres_Api_Automation)
++ [Polka_UI_Junit_parameterized](https://github.com/silens088/Polka_UI_Junit_parameterized), 
++ [Demoqa_UI_PageObject](https://github.com/silens088/Automation_PracticeForm_Telegram_12)
++ [Kupithai_UI_Automation](https://github.com/silens088/Kupithai_UI_Automation)
++ [Reqres_Api_Automation](https://github.com/silens088/Reqres_Api_Automation)
 
 ---
 
