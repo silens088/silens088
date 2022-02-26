@@ -7,6 +7,7 @@ Software QA Engineer more 2 years, practicing QA automation
 + [Demoqa_UI_PageObject](https://github.com/silens088/Automation_PracticeForm_Telegram_12)
 + [Kupithai_UI_Automation](https://github.com/silens088/Kupithai_UI_Automation)
 + [Reqres_Api_Automation](https://github.com/silens088/Reqres_Api_Automation)
++ [mobile_browserstack](https://github.com/silens088/mobile_browserstack_20)
 
 ---
 
