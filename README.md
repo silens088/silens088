@@ -1,5 +1,5 @@
 ### Welcome to my GitHub page!
-Software QA Engineer more 2 years, practicing QA automation
+Software QA Engineer more 3 years, practicing QA automation
 ---
 
 ### Check out my projects:
